@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Михаил\Desktop\Лабы\2 курс\ООП\Лабораторная работа №9\ConsoleApplication1\ConsoleApplication1.cpp(124,13): warning C4305: =: усечение из "double" в "float"
+C:\Users\Михаил\Desktop\Лабы\2 курс\ООП\Лабораторная работа №9\ConsoleApplication1\ConsoleApplication1.cpp(174,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Михаил\Desktop\Лабы\2 курс\ООП\Лабораторная работа №9\ConsoleApplication1\ConsoleApplication1.cpp(175,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\Михаил\Desktop\Лабы\2 курс\ООП\Лабораторная работа №9\ConsoleApplication1\ConsoleApplication1.cpp(177,13): warning C4305: =: усечение из "double" в "float"
+C:\Users\Михаил\Desktop\Лабы\2 курс\ООП\Лабораторная работа №9\ConsoleApplication1\ConsoleApplication1.cpp(282,15): warning C4101: max_d: неиспользованная локальная переменная
+C:\Users\Михаил\Desktop\Лабы\2 курс\ООП\Лабораторная работа №9\ConsoleApplication1\ConsoleApplication1.cpp(282,8): warning C4101: min_d: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Михаил\Desktop\Лабы\2 курс\ООП\Лабораторная работа №9\ConsoleApplication1\Debug\ConsoleApplication1.exe
